@@ -1,0 +1,20 @@
+body{
+    background: #f3d004;
+}
+#Title{
+    color: #d80202;
+    background-color:#3498DB ;
+    width: 180px;
+    margin-left: 5px;
+}
+li{
+    color: #1216dd;
+    padding: 5px;
+    margin-bottom: 8px;
+}
+h2{
+    color: #08d6c1;
+}
+html{
+    font-family: Comic Sans MS;
+}
